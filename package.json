@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "test": "jest"
   },
-  "dependencies": {
-    "lodash": "^4.17.10"
+  "devDependencies": {
+    "jest": "23.6.0"
   }
 }
